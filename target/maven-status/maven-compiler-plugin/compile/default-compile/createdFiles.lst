@@ -1,0 +1,7 @@
+Common\GenericDao.class
+Common\AbstractDao.class
+Common\HibernateUtil.class
+Entity\NhanVien.class
+Common\PhongBanDao.class
+Common\PhongBanDaoImpl.class
+Entity\PhongBan.class
